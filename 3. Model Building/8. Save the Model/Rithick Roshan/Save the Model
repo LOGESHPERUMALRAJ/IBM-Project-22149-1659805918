@@ -1,1 +1,2 @@
-
+from tensorflow.keras models import load_model
+model.save("crude_oil.h5")
