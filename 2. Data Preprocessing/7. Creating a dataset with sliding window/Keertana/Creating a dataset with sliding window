@@ -11,3 +11,5 @@ print(x_train.shape), print(y_train.shape)
 print(x_test.shape), print(ytest.shape)
 X_train =X_train.reshape(X_train.shape[®],X_train.shape[1] 1)
 x_test x_test.reshape(x_test.shape[0],x_test.shape[1] 1)
+
+
