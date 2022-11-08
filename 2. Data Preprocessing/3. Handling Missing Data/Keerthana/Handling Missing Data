@@ -1,0 +1,6 @@
+data.isnull().any()
+data.isnull().sum()
+data.dropna(axis = 0, inplace = True)
+data.isnull().sum()
+data_oil = data.reset_index()['Closing Value']
+data_oil
