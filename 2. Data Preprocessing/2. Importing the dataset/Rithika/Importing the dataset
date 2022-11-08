@@ -1,1 +1,2 @@
 data = pd.read_excel(r"D:\crude Oil Prices Daily.xlsx")
+
