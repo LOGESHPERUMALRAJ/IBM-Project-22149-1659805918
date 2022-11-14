@@ -1,4 +1,0 @@
-model.add(Dense (1))
-model.summary()
-
-
