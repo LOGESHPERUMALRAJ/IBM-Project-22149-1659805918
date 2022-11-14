@@ -1,2 +1,0 @@
-model.compile(loss= mean squared error optimizer='adam)
-
